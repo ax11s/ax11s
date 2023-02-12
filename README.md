@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there, I'm ax11 👋
+I'm a Polish student, interested in automation and cybersecurity.
+Feel free to lurk around my profile and make sure to check out my repositories!
+
 
 <!--
 **ax11s/ax11s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
