@@ -1,5 +1,6 @@
-### Hi there, I'm ax11 👋
-I'm a Polish student, interested in automation and cybersecurity. <br/>
-Feel free to lurk around my profile and make sure to check out my repositories!<br/>
+# 🌟 Witaj na moim GitHubie!
+
+Cześć, Jestem **Krzysztof** 👋 </br>
+Jestem studentem, programistą Pythona i front-end developerem z pasją do tworzenia nowoczesnych aplikacji oraz eksplorowania świata cyberbezpieczeństwa
 
 
